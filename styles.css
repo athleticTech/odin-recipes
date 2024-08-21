@@ -1,0 +1,14 @@
+body {
+    background-color: bisque;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Lucida Handwriting', fantasy;
+}
+
+h3 {
+    font-family: 'Copperplate', sans-serif;
+    margin-top: 16px;
+    margin-bottom: 8px;;
+}
